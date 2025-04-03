@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MealMate</string>
+    <string name="mealmate">mealmate</string>
+    <string name="smart_meals_for_every_hour">smart meals for every hour</string>
+    <string name="sign_in">sign in</string>
+    <string name="MealMate">MealMate</string>
+    <string name="full_name">full name</string>
+    <string name="password">Password</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="register">Register</string>
+    <string name="don_t_have_an_account">Don\'t have an Account?</string>
+    <string name="email_address">Email Address</string>
+    <string name="welcome_background">welcome background</string>
+</resources>
