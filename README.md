@@ -43,6 +43,6 @@ The project is organized into the following packages:
 
 1.  Clone the Repository:
 
-   git clone [your-repository-url]
+   git clone (https://github.com/10438790/Assignment1-IMAD)
 
    
